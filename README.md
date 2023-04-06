@@ -1,6 +1,6 @@
-# Typescript Starter for nodejs
+# NestJS Starter
 
-This repo will have a simple nodejs and typescript config to start development instead of configuring everytime.
+This repo will have a nestjs app with the below items added.
 
 ## Items included in this repo
 
@@ -12,3 +12,5 @@ This repo will have a simple nodejs and typescript config to start development i
 6. Added `commit-lint` configurations to manage the commit message validations.
 7. Added [Commitizen](https://www.npmjs.com/package/commitizen) for git commit with prompts.
 8. Added [Semantic Release](https://semantic-release.gitbook.io/semantic-release/) automate the release cycle
+9. Added [Result](/libs/core/src/result/readme.md) to handle the success and error.
+10. Added Winston logger which overrides the nestjs logger.
