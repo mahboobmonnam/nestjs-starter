@@ -1,5 +1,5 @@
 {
-  "name": "wallet-api",
+  "name": "nestjs-starter",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -95,6 +95,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahboobmonnam/wallet-api.git"
+    "url": "git+https://github.com/mahboobmonnam/nestjs-starter.git"
   }
 }
