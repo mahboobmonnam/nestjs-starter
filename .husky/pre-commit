@@ -12,3 +12,4 @@ npm run lint:md
 git add -u
 
 # Run test
+npm run test
